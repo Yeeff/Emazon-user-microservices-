@@ -5,7 +5,7 @@ spring:
   application:
     name: emazon_user_microservices
   datasource:
-    url: jdbc:mysql://localhost/stock_db
+    url: jdbc:mysql://localhost/user_db
     username: ${username}
     password: ${password}
   jpa:
